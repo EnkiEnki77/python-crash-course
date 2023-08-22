@@ -5,6 +5,6 @@ def make_pizza(size, *toppings):
     for toppng in toppings:
         print(toppng)
 
-make_pizza("12", "pepperoni", "mushroom", "olives")
+# make_pizza("12", "pepperoni", "mushroom", "olives")
 
 # You can use positional params with arbitrary params, the arbitrary param must come last though
